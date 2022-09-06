@@ -1,2 +1,2 @@
-tail -1 9-duplicate_last_line>> 9-duplicate_last_line
-tail -1 9-duplicate_last_line | 9-duplicate_last_lin>> 9-duplicate_last_line
+#!/bin/bash
+tail -1 9-duplicate_last-line | 9-duplicate_last-line
